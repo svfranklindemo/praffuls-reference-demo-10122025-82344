@@ -1,13 +1,19 @@
 {
   "mappings": [
     "/content/praffuls-refdemo-10-dec/language-masters/en:/",
-    "/content/praffuls-refdemo-10-dec/language-masters/en/:/",
     "/content/praffuls-refdemo-10-dec/language-masters/en/:/en/",
+    "/content/praffuls-refdemo-10-dec/language-masters/fr/:/fr/",
+    "/content/praffuls-refdemo-10-dec/language-masters/fr:/fr",
+    "/content/praffuls-refdemo-10-dec/language-masters/es/:/es/",
+    "/content/praffuls-refdemo-10-dec/language-masters/es:/es",
+    "/content/praffuls-refdemo-10-dec/language-masters/ja/:/ja/",
+    "/content/praffuls-refdemo-10-dec/language-masters/ja:/ja",
+    "/content/praffuls-refdemo-10-dec/language-masters/de/:/de/",
+    "/content/praffuls-refdemo-10-dec/language-masters/de:/de",
     "/content/praffuls-refdemo-10-dec/configuration:/.helix/config.json",
     "/content/praffuls-refdemo-10-dec/metadata:/metadata.json",
     "/content/praffuls-refdemo-10-dec/redirects:/redirects.json",
-    "/content/praffuls-refdemo-10-dec/placeholders:/placeholders.json",
-    "/content/praffuls-refdemo-10-dec.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/praffuls-refdemo-10-dec/placeholders:/placeholders.json"
   ],
   "includes": [
     "/content/praffuls-refdemo-10-dec/",
